@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Board game basics  Player/Simple_Search_Engine.Problems-Board_game_basics__Player.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix an error/Simple_Search_Engine.Problems-Fix_an_error.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix me/Simple_Search_Engine.Problems-Fix_me.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Simple_Search_Engine.Problems-Fix_the_program.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Good rest on vacation/Simple_Search_Engine.Problems-Good_rest_on_vacation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Printing arguments/Simple_Search_Engine.Problems-Printing_arguments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Using arguments/Simple_Search_Engine.Problems-Using_arguments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" />
+    </modules>
+  </component>
+</project>
